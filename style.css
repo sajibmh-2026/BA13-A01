@@ -80,7 +80,7 @@ body {
     color: rgba(0, 0, 0, 1);
   }
   #banner{
-    background: url(../assets/hero-bg.png),no-repeat;
+    background: url(assets/hero-bg.png),no-repeat;
     padding: 70px 120px 134px;
 
   }
@@ -98,7 +98,7 @@ body {
     padding: 8px 12px 8px 12px;
     font-size: 16px;
     color: rgba(70, 145, 101, 1);
-    background-color:rgba(255, 255, 255, 1);;
+    background-color:rgba(255, 255, 255, 1);
     /* border: none; */
     border-radius: 1000px;
    }
@@ -303,4 +303,4 @@ justify-content: space-between;
     margin-top: 80px;   
     margin-bottom: 25px; 
     border: none;
-    border-top: 1px solid rgba(255, 255, 255, 0.2); 
+      border-top: 1px solid rgba(255, 255, 255, 0.2);} 
